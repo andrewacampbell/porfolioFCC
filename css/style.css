@@ -30,3 +30,33 @@ footer {
 .text14{
   font-size: 18px;
 }
+
+.head-font{
+  font-family: 'Cinzel', serif;
+  font-size:50px;
+}
+
+.text-font{
+  font-family: 'Rajdhani', sans-serif;
+}
+.font-24{
+  font-size: 24px;
+}
+
+.expadding{
+  padding: 10px;
+}
+
+.exmargin{
+  margin: -18px auto 0 auto;
+}
+
+.colblue{
+  background-color: #8d6757;
+}
+.white{
+  color:#ffffff;
+}
+.ofwhite{
+  color:#fafaff;
+};
